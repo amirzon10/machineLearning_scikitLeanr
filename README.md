@@ -1,4 +1,4 @@
-# machineLearning_scikitLeanr\
+# machineLearning_scikitLeanr
 Introduction:
 
 This project was completed as a part of the course Introduction to Machine Learning in Python, powered by IBM. It was the final project which helped me gain honors in the course. The objective of this project was to practice the classification algorithms I learned during the course. The algorithms used in this project are Linear Regression (a non-classification algorithm), KNN, Decision Trees, Logistic Regression, and SVM. They were evaluated based on the following metrics: Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score.
