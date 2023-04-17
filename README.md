@@ -11,9 +11,15 @@ Required Libraries:
 
 To make use of this notebook, the following libraries are required:
 
+
 -Pandas
+
 -NumPy
+
 -Seaborn
+
 -Matplotlib
+
 -Scikit-learn
--Note: Please ensure that you have these libraries installed before running the code.
+
+Note: Please ensure that you have these libraries installed before running the code.
